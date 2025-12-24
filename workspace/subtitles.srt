@@ -1,0 +1,160 @@
+1
+00:00:00,440 --> 00:00:06,040
+在中国科技巨头的版图中，很少有人物能像王兴这样具有关键性地位。
+In the landscape of China's tech giants, few figures are as pivotal as Wang Xing.
+
+2
+00:00:06,679 --> 00:00:10,880
+他是美团的创始人，这是一家全球最大的按需配送平台。
+He is the founder of Meituan, the world's largest on-demand delivery platform.
+
+3
+00:00:11,660 --> 00:00:13,439
+但成功并非一蹴而就。
+But success didn't come easy.
+
+4
+00:00:13,800 --> 00:00:16,300
+他的早期职业生涯充满了接连不断的失败。
+His early career was marked by serial failures.
+
+5
+00:00:17,500 --> 00:00:24,059
+他眼看着自己的创业项目一个个倒下，面对不断下滑的数据潸然泪下，但他从未放弃。
+He watched his startups collapse, weeping over declining numbers, yet he never gave up.
+
+6
+00:00:24,660 --> 00:00:26,300
+2010年，他创办了美团。
+In 2010, he launched Meituan.
+
+7
+00:00:26,600 --> 00:00:32,820
+它最初从团购业务起步，后来发展成一款重塑城市生活的超级应用。
+It started with group buying but evolved into a super-app that reshaped urban life.
+
+8
+00:00:32,960 --> 00:00:34,799
+其逻辑简单却强大：
+The logic was simple but powerful:
+
+9
+00:00:35,079 --> 00:00:39,679
+通过一支庞大的骑手队伍，将饥饿的消费者与本地商家连接起来。
+Connect hungry customers with local businesses through a vast army of riders.
+
+10
+00:00:40,119 --> 00:00:48,060
+如今，数百万身穿黄色外套的骑手穿梭在中国的大街小巷，成为城市物流的“血管”。
+Today, millions of riders in yellow jackets navigate the streets of China, becoming the veins of the city's logistics.
+
+11
+00:00:49,600 --> 00:00:52,060
+王兴的愿景并不止于餐饮。
+Wang Xing’s vision went beyond just food.
+
+12
+00:00:52,619 --> 00:00:55,759
+他希望打造“城市生活的操作系统”。
+He wanted to build the "operating system for city life."
+
+13
+00:00:57,500 --> 00:00:58,979
+它成为了一条生命线。
+It became a lifeline.
+
+14
+00:00:59,619 --> 00:01:03,000
+当你生病在家时，骑手可以在几分钟内送来药品。
+When sick at home, the riders deliver medicine within minutes.
+
+15
+00:01:04,439 --> 00:01:05,120
+出行时呢？
+Traveling?
+
+16
+00:01:05,200 --> 00:01:06,879
+你可以即时预订酒店和机票。
+You can book hotels and flights instantly.
+
+17
+00:01:08,159 --> 00:01:11,099
+美团几乎覆盖了日常生活的方方面面。
+Meituan covers almost every aspect of daily life.
+
+18
+00:01:12,620 --> 00:01:14,659
+然而，这种高效率是有代价的。
+However, this efficiency comes at a cost.
+
+19
+00:01:15,739 --> 00:01:21,980
+系统由一套冷酷的算法驱动，为每一单配送计算最短时间。
+The system is driven by a ruthless algorithm that calculates the shortest time for every delivery.
+
+20
+00:01:23,200 --> 00:01:25,120
+骑手往往被困在系统之中。
+Riders are often trapped in the system.
+
+21
+00:01:26,019 --> 00:01:33,299
+为了避免超时罚款，他们被迫与时间赛跑，甚至无视交通规则。
+To avoid fines for late deliveries, they are forced to race against the clock, ignoring traffic rules.
+
+22
+00:01:34,379 --> 00:01:37,099
+这种“速度至上”的需求导致交通事故激增。
+This "need for speed" has led to a surge in traffic accidents.
+
+23
+00:01:38,180 --> 00:01:42,900
+消费者的便利，有时是建立在骑手安全风险之上的。
+The convenience of the customer is sometimes built on the safety risks of the riders.
+
+24
+00:01:43,920 --> 00:01:46,659
+这引发了公众的愤怒和抗议。
+This sparked public outrage and protests.
+
+25
+00:01:48,060 --> 00:01:52,799
+骑手们要求更好的待遇、保险以及更合理的配送时间。
+Riders demanded better treatment, insurance, and more reasonable delivery times.
+
+26
+00:01:54,140 --> 00:01:56,299
+王兴和美团面临着巨大的压力。
+Wang Xing and Meituan faced immense pressure.
+
+27
+00:01:57,079 --> 00:02:03,599
+公众开始质疑：技术是在服务人类，还是在奴役人类？
+The public began to question: Is technology serving humanity, or enslaving it?
+
+28
+00:02:03,780 --> 00:02:07,180
+王兴的事业无疑推动了中国的现代化。
+Wang Xing’s work has undeniably modernized China.
+
+29
+00:02:07,379 --> 00:02:07,620
+但他的故事也为全球敲响了警钟。
+But his story serves as a global lesson.
+
+30
+00:02:07,620 --> 00:02:09,900
+真正的创新不仅仅关乎效率，
+True innovation isn't just about efficiency;
+
+31
+00:02:10,000 --> 00:02:12,659
+更在于在利润与社会责任之间取得平衡。
+it's about balancing profit with social responsibility.
+
+32
+00:02:13,439 --> 00:02:16,500
+这既是王兴面临的挑战，也是整个科技未来的挑战。
+This is the challenge for Wang Xing, and for the future of tech.
+
